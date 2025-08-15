@@ -1,19 +1,8 @@
 {
-  "RepoURL": "https://github.com/pbhatnagar-oss/argocd-example-apps",
-  "DrySHA": "185613a6014d9c6500210709add58bfdc9eefb7c",
-  "Commands": null,
-  "Author": "pbhatnagar-oss <pbhatifiwork@gmail.com>",
-  "Date": "2025-08-14T23:04:37-07:00",
-  "Subject": "test24",
-  "Body": "Signed-off-by: pbhatnagar-oss <pbhatifiwork@gmail.com>\n",
-  "References": [
-    {
-      "commit": {
-        "author": "<pbhatifiwork@gmail.com>",
-        "subject": "testReferencingPreviousIteration 22",
-        "sha": "551d3819401dbf821fb94cb7c951084fade17c3d",
-        "repoUrl": "https://github.com/pbhatnagar-oss/argocd-example-apps"
-      }
-    }
-  ]
+  "repoURL": "https://github.com/pbhatnagar-oss/argocd-example-apps",
+  "drySha": "b48a506d7a3b4fa11c487a11d6e475ae3b69f27f",
+  "author": "pbhatnagar-oss <pbhatifiwork@gmail.com>",
+  "date": "2025-08-14T23:28:09-07:00",
+  "subject": "test25\nArgocd-reference-commit-repourl: https://github.com/pbhatnagar-oss/argocd-example-apps\nArgocd-reference-commit-author: pbhatifiwork@gmail.com\nArgocd-reference-commit-subject: testReferencingPreviousIteration 24\nArgocd-reference-commit-sha: 185613a6014d9c6500210709add58bfdc9eefb7c",
+  "body": "Signed-off-by: pbhatnagar-oss <pbhatifiwork@gmail.com>\n"
 }
