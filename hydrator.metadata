@@ -1,18 +1,8 @@
 {
   "repoURL": "https://github.com/pbhatnagar-oss/argocd-example-apps",
-  "drySha": "f584042a951103e041234faa861e01b84bb8aa1b",
+  "drySha": "95d35edec53a00a65c9e32327580e170611d6d97",
   "author": "pbhatnagar-oss <pbhatifiwork@gmail.com>",
-  "date": "2025-08-22T10:53:21-07:00",
-  "subject": "test34",
-  "body": "Signed-off-by: pbhatnagar-oss <pbhatifiwork@gmail.com>\n",
-  "references": [
-    {
-      "commit": {
-        "author": "<pbhatifiwork@gmail.com>",
-        "subject": "testReferencingPreviousIteration 32",
-        "sha": "3ff41cc5247197a6caf50216c4c76cc29d78a97d",
-        "repoUrl": "https://github.com/pbhatnagar-oss/argocd-example-apps"
-      }
-    }
-  ]
+  "date": "2025-10-01T17:12:31-07:00",
+  "subject": "test44\nArgocd-reference-commit-repourl: https://github.com/pbhatnagar-oss/argocd-example-apps\nArgocd-reference-commit-author: pbhatifiwork@gmail.com",
+  "body": "Signed-off-by: pbhatnagar-oss <pbhatifiwork@gmail.com>\n"
 }

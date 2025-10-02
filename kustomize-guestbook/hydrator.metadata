@@ -1,4 +1,7 @@
 {
   "repoURL": "https://github.com/pbhatnagar-oss/argocd-example-apps",
-  "drySha": "f584042a951103e041234faa861e01b84bb8aa1b"
+  "drySha": "95d35edec53a00a65c9e32327580e170611d6d97",
+  "commands": [
+    "kustomize build ./kustomize-guestbook"
+  ]
 }
