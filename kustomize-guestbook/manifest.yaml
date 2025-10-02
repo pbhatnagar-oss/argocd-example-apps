@@ -13,7 +13,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   labels:
-    test: "48"
+    test: "50"
   name: kustomize-guestbook-ui
 spec:
   replicas: 1
