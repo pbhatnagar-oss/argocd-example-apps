@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: guestbook-ui
   labels: 
-    test: "52"
+    test: "54"
 spec:
   replicas: 1
   revisionHistoryLimit: 3
